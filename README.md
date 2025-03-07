@@ -12,7 +12,7 @@ This project is a Spring Boot application providing a User API. It allows you to
 2.  **Clone the Repository (if applicable):**
 
     ```
-    git clone https://github.com/haffane/userapi.git
+    git clone https://github.com/youhaff/userapi.git
     cd userapi
     ```
 
